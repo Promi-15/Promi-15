@@ -77,11 +77,13 @@
 
 ---
 
-### 🌟 GitHub Stats (Gradient Style)
+### 🌟 GitHub Stats 
 
 
-![Promi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Promi-15&show_icons=true&theme=radical)
+<p align="center">
+  ![Promi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Promi-15&show_icons=true&theme=radical)
 
+</p>
 
 <p align="center padding=2px">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=promi-15&show_icons=true&locale=en&layout=compact&theme=dracula" />

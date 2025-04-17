@@ -15,12 +15,10 @@
 
 ### 🌟 GitHub Stats (Gradient Style)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=promi-15&theme=gradient" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=promi-15&theme=gradient" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=promi-15&theme=gradient" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=promi-15&theme=gradient&utcOffset=6" />
-</p>
+
+![Promi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Promi-15&show_icons=true&theme=radical)
+
+
 
 ---
 

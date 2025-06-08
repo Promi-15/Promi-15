@@ -1,19 +1,13 @@
-<h1 align="center">Hi 👋, I'm  Promi</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">Hello Viewers  I'm  Promi</h1>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=promi-15&label=Profile%20views&color=0e75b6&style=flat" alt="promi-15" />
 </p>
 
-
----
-
-
-
 <div align="center" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px; background-color: #f9f9f9;">
 
-<h6>🌱 I’m currently learning <strong>Backend, MongoDB to become a fullstack developer</strong></h3>
-<h7>📫 How to reach me: <strong>promi03133@gmail.com</strong></h3>
+<b><p style="color:black">I'm a passionate Full Stack Developer currently learning and building with technologies like HTML, Tailwind CSS, JavaScript, React, Node.js, Express.js, MongoDB, Zustand, and Auth0. I love creating responsive, user-friendly web applications and enjoy solving real-world problems through clean and efficient code. Always open to learning new tools and improving my skills every day.</p></b>
 
 </div>
 
@@ -47,7 +41,6 @@
        
  
 
-
  </p>
  
 ---
@@ -55,8 +48,8 @@
 ## BackEnd
   <p align="left">
     <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+    <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+    <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
     <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
   </p>
   

@@ -8,9 +8,9 @@
 <img src="./Images/Jasmin.png"/>
 </div>
 
-<div align="center" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px; background-color: #f9f9f9;">
-
-<b><p style="color:black">I'm a passionate Full Stack Developer currently learning and building with technologies like HTML, Tailwind CSS, JavaScript, React, Node.js, Express.js, MongoDB, Zustand, and Auth0. I love creating responsive, user-friendly web applications and enjoy solving real-world problems through clean and efficient code. Always open to learning new tools and improving my skills every day.</p></b>
+<div align="center" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px; ">
+<p>About Me</p>
+<b><p style="color:black">I love crafting responsive, user-friendly web applications using HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, and Zustand. Currently expanding my skills by diving into new technologies to build even more scalable and efficient solutions..</p></b>
 
 </div>
 
